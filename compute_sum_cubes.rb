@@ -1,5 +1,4 @@
 =begin
-
 Problem Statement
 
 Compute the sum of cubes for a given range a through b.
